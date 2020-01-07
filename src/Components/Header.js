@@ -5,7 +5,9 @@ export default props => {
     <div>
       <ul>
         <li>Home</li>
-        <li>b About</li>
+        <li>About Us</li>
+        <li>Services</li>
+        <li>Contact Us </li>
       </ul>
     </div>
   );
